@@ -5,7 +5,10 @@
     font-weight: normal;
     list-style: none;
 }
-
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
 .container{
     max-width: 1250px;
     margin: 0 auto;
