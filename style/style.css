@@ -5,6 +5,18 @@
     font-weight: normal;
     list-style: none;
 }
+@media screen (max-width: 1200px) {
+    
+}
+@media screen (max-width: 998px) {
+    
+}
+@media screen (max-width: 768px) {
+    
+}
+@media screen (max-width: 576px) {
+    
+}
 body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Roboto', sans-serif;
@@ -12,9 +24,6 @@ body{
 .container{
     max-width: 1250px;
     margin: 0 auto;
-    width=device-width;
-    minimum-scale=1.0;
-    maximum-scale=1.0
 
 }
 .flex{
@@ -27,7 +36,7 @@ align-items: center;
     gap: 62px;
 }
 
-.headr{
+.header{
     margin: 13px auto 15px;
 }
 .header_link{
