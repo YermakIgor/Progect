@@ -100,6 +100,67 @@ color: #FFFFFF;
     background: #20003C;
     padding: 50px 0;
 }
+
+.grow{
+    margin: 136px auto ;
+}
+.grow_titel{
+    font-weight: 700;
+font-size: 40px;
+line-height: 45px;
+color: #1C1C1C;
+max-width: 415px;
+}
+.grow_flex{
+    display: flex;
+    gap: 34px;
+}
+.grow_element{
+    max-width: 333px;
+    text-align: center;
+}
+.grow_item{
+padding: 35px 0 85px ;
+box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+border-radius: 0px 0px 7px 7px;
+}
+.grow_pretitle{
+    font-size: 26px;
+    line-height: 22px;
+    margin-bottom: 28px;
+}
+.grow_text{
+    font-size: 18px;
+line-height: 22px;
+color: #6F2CFF;
+max-width: 219px;
+margin: 0 auto;
+}
+
+.commers{
+    margin-bottom: 136px;
+    text-align: center;
+}
+.commers_titel{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 79px;
+}
+.commers_pretitle{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    margin: 42px 0 16px;
+}
+.commers_text{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+    max-width: 314px;
+}
+
+
 .footer_ul{
     display: flex;
     gap: 74px;
