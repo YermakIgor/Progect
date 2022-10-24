@@ -12,6 +12,10 @@ body{
 .container{
     max-width: 1250px;
     margin: 0 auto;
+    width=device-width;
+    minimum-scale=1.0;
+    maximum-scale=1.0
+
 }
 .flex{
 display: flex;
