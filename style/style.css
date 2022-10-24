@@ -5,6 +5,10 @@
     font-weight: normal;
     list-style: none;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 @media screen (max-width: 1200px) {
     
 }
